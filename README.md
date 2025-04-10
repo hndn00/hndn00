@@ -12,9 +12,6 @@
 
 ---
 
-
----
-
 <!-- 연락처 -->
 <h2 align="center"> 연락하기</h2>
 <p align="center">
