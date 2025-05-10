@@ -10,7 +10,4 @@
 
 
 <!-- 재미 요소 -->
-<h2 align="center"> 오늘의 한 마디</h2>
-<p align="center">
-  드르렁
-</p>
+<h2 align="center"> yeon_dahn</h2>
