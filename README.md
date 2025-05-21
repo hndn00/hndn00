@@ -10,4 +10,4 @@
 
 
 <!-- 재미 요소 -->
-<h2 align="center"> yeon_dahn</h2>
+<h2 align="center"> @hndn00</h2>
