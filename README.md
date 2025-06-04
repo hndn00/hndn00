@@ -1,23 +1,20 @@
 
-<!-- Banner Section -->
 <div align="center">
-  <!-- Waving banner image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=3,4,6,11,19,18&amp;height=200&amp;text=loading...&amp;fontSize=58&amp;fontAlign=25&amp;fontAlignY=43" alt="Banner" />
-   
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=5000&pause=1000&color=FFFFFF&background=1E3C72&center=true&vCenter=true&width=600&height=100&lines=loading.." alt="Typing SVG" />
 </div>
 
 
-
 ---
 
-#### 🌸 Tools & Technologies
+#### Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-B0E0E6?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=F05032)
+
+![Python](https://img.shields.io/badge/Python-A2C5F9?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-87CEEB?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7EC8E3?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6BAED6?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-3C9CD6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
-
