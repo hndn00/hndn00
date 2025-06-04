@@ -4,17 +4,15 @@
 </div>
 
 
----
-
-#### Tools & Technologies
-
-
-![Python](https://img.shields.io/badge/Python-A2C5F9?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-87CEEB?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7EC8E3?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6BAED6?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-3C9CD6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hndn00&layout=compact&theme=default" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hndn00" alt="Anurag's GitHub stats"/>
+  </a>
+</p>
